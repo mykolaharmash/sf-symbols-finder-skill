@@ -1,8 +1,10 @@
-# SF Symbols Finder
-
 <p align="center">
-  <img src="assets/logo.png" alt="SF Symbols Finder icon" width="160">
+  <img src="assets/logo.png" alt="SF Symbols Finder icon" width="84">
 </p>
+
+<h3 align="center">SF Symbols Finder Skill</h3>
+
+
 
 A small Agent Skill that helps agents find better SF Symbols for your app UIs on Apple platforms.
 
