@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/logo.png" alt="SF Symbols Finder icon" width="84">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark-theme.png">
+    <img src="assets/logo-light-theme.png" alt="SF Symbols Finder logo" width="234">
+  </picture>
 </p>
 
 <h3 align="center">SF Symbols Finder Skill</h3>
