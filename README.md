@@ -7,8 +7,6 @@
 
 <h3 align="center">SF Symbols Finder Skill</h3>
 
-
-
 A small Agent Skill that helps agents find better SF Symbols for your app UIs on Apple platforms.
 
 * Uses semantic search instead of just static SF Symbol names
