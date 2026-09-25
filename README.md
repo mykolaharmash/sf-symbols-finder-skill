@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark-theme.png">
-    <img src="assets/logo-light-theme.png" alt="SF Symbols Finder logo" width="80">
+    <img src="assets/logo-light-theme.png" alt="SF Symbols Finder logo" width="84">
   </picture>
 </p>
 
